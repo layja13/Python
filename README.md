@@ -1,2 +1,2 @@
 # Python
-Automation, GUI's and games.
+Here I show my learning codes and projects of python
